@@ -10,7 +10,7 @@ config:
     commands:
       - cd coderoad && npm install
   repo:
-    uri: https://git.tongyuan.cc/chenyq/cr-proj
+    uri: https://git.tongyuan.cc/chenyq/cr-proj.git
     branch: v0.1.0
   dependencies:
     - name: node
