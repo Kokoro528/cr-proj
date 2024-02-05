@@ -10,7 +10,7 @@ config:
     commands:
       - cd coderoad && npm install
   repo:
-    uri: https://github.com/Kokoro528/cr-proj.git
+    uri: https://github.com/Kokoro528/cr-proj
     branch: v0.1.0
   dependencies:
     - name: node
